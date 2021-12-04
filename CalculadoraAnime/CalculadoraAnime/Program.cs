@@ -57,7 +57,7 @@ namespace Calculadora_anime
         static void Exceptions()
         {
             ConsoleClear();
-            Console.WriteLine("Please, insert a valid number");
+            Console.WriteLine("Please, insert a valid value");
             Console.ReadLine();
         }
 
